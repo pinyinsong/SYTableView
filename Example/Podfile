@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SYTableView_Example' do
+  pod 'SYTableView', :path => '../'
+
+  target 'SYTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

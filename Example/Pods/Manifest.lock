@@ -1,0 +1,16 @@
+PODS:
+  - SYTableView (0.1.0)
+
+DEPENDENCIES:
+  - SYTableView (from `../`)
+
+EXTERNAL SOURCES:
+  SYTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYTableView: fc7aab9459d8685b9b224bed3206f08d9a9aad67
+
+PODFILE CHECKSUM: efdcccda8b7273eab8bc60d291f1059b795781da
+
+COCOAPODS: 1.7.1

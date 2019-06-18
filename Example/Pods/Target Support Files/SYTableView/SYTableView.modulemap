@@ -1,0 +1,6 @@
+framework module SYTableView {
+  umbrella header "SYTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
