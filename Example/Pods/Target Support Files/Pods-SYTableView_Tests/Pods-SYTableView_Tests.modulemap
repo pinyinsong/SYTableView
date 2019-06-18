@@ -1,0 +1,6 @@
+framework module Pods_SYTableView_Tests {
+  umbrella header "Pods-SYTableView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
